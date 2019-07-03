@@ -1,3 +1,4 @@
+// Minor change by Pete Emerson to prove golang is pulling in the right thing
 // Copyright 2019 The Berglas Authors
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
