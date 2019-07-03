@@ -1,4 +1,4 @@
-module github.com/GoogleCloudPlatform/berglas
+module github.com/pete0emerson/berglas
 
 go 1.12
 
